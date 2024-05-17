@@ -1,7 +1,7 @@
 {
   "name": "ZUSYCO-MD",
   "version": "1.5.0",
-  "description": "Simple WhatsApp bot created by DarkMakerofc (mrnima) for Easy Your Works on Whatsapp.",
+  "description": "Simple WhatsApp bot for your works.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
